@@ -1,0 +1,33 @@
+.mb-5 { margin-bottom: 3rem; }
+.mt-3 { margin-top: 1.5rem; }
+.mr-2 { margin-right: 0.5rem; }
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.section-subtitle {
+  font-size: 1.25rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.cta-box {
+  background-color: #1e293b;
+  border-radius: 1.5rem;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: white;
+  background-image: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+}
+
+.cta-box h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.cta-box p {
+  color: #94a3b8;
+  font-size: 1.25rem;
+}
